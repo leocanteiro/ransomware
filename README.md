@@ -5,3 +5,4 @@
 <br/>Após isso basta executar o arquivo ransomware.py no terminal para criptografar os arquivos.<br/>
 <br/>Para descriptografar basta executar o arquivo decrypt.py no terminal e inserir a senha "Dunkelheit".<br/>
 <br/>Estarei deixando 3 arquivos .txt para ser realizado os testes, basta abrir os arquivos e inserir a mensagem da qual queira criptografar.<br/>
+<br/>É necessário ter instalado o plugin de criptografia na sua IDE para o código rodar.<br/>
